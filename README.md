@@ -11,3 +11,6 @@ The SAS macros implement the method described in [Leonard, David. Estimating a b
 ## Requirements
 - Base SAS
 - SAS/STAT, version >= 9.1
+
+## Keywords
+measurement error, straight line fitting, method comparison, allometry
